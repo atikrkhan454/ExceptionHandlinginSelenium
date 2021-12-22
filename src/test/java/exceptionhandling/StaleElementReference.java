@@ -31,6 +31,8 @@ public class StaleElementReference {
 
         driver.navigate().refresh();
 
+        //username.sendKeys("arkhan");
+       // password.sendKeys("Atik@1234");
 
         try {
             username.sendKeys("arkhan");
